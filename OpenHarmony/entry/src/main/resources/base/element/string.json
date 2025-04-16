@@ -1,0 +1,194 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "gif-drawable"
+    },
+    {
+      "name": "router_default",
+      "value": "默认硬解码范例demo"
+    },
+    {
+      "name": "router_alternative",
+      "value": "备选软解码范例demo"
+    },
+    {
+      "name": "router_online",
+      "value": "软解码测试网络下载"
+    },
+    {
+      "name": "router_local_res",
+      "value": "软解码测试本地Res"
+    },
+    {
+      "name": "router_local_file",
+      "value": "软解码测试本地文件"
+    },
+    {
+      "name": "text_label_show",
+      "value": "GIF能力展示"
+    },
+    {
+      "name": "text_gif1_parse",
+      "value": "gif1是否解析完成？"
+    },
+    {
+      "name": "text_gif2_parse",
+      "value": "gif2是否解析完成？"
+    },
+    {
+      "name": "text_gif3_parse",
+      "value": "gif3是否解析完成？"
+    },
+    {
+      "name": "text_current_loop",
+      "value": "当前GIF循环了多少次？"
+    },
+    {
+      "name": "text_loadAndParse_time",
+      "value": "加载并解析耗时"
+    },
+
+    {
+      "name": "button_draw_gif1",
+      "value": "点击绘制GIF1"
+    },
+    {
+      "name": "button_draw_gif2",
+      "value": "点击绘制GIF2"
+    },
+    {
+      "name": "button_draw_gif3",
+      "value": "点击绘制GIF3"
+    },
+    {
+      "name": "data_current_loop",
+      "value": "当前gif循环了"
+    },
+    {
+      "name": "data_time",
+      "value": "次"
+    },
+    {
+      "name": "button_start_play",
+      "value": "点击开始播放"
+    },
+    {
+      "name": "button_stop_play",
+      "value": "点击停止播放"
+    },
+    {
+      "name": "button_reset_play",
+      "value": "点击重置播放"
+    },
+
+    {
+      "name": "data_show_content",
+      "value": "展示文本内容"
+    },
+    {
+      "name": "data_parse_state",
+      "value": "解析状态"
+    },
+    {
+      "name": "text_play_speed",
+      "value": "播放速率"
+    },
+    {
+      "name": "text_setting_size",
+      "value": "设置大小"
+    },
+    {
+      "name": "placeholder_width",
+      "value": "组件宽度"
+    },
+    {
+      "name": "placeholder_height",
+      "value": "组件高度"
+    },
+    {
+      "name": "text_show_text",
+      "value": "展示文本："
+    },
+    {
+      "name": "text_load_source",
+      "value": "加载源"
+    },
+    {
+      "name": "button_resource",
+      "value": "工程资源"
+    },
+    {
+      "name": "data_parsing",
+      "value": "正在解析中,请等待"
+    },
+    {
+      "name": "data_parse_finish",
+      "value": "解析完成，耗时="
+    },
+    {
+      "name": "data_time_consuming",
+      "value": "耗时="
+    },
+    {
+      "name": "button_local_path",
+      "value": "本地路径"
+    },
+    {
+      "name": "button_network",
+      "value": "网络"
+    },
+    {
+      "name": "text_control",
+      "value": "控制"
+    },
+    {
+      "name": "button_start",
+      "value": "开启"
+    },
+    {
+      "name": "button_pause",
+      "value": "暂停"
+    },
+    {
+      "name": "button_reset",
+      "value": "重置"
+    },
+    {
+      "name": "button_save_private_path",
+      "value": "点击将GIF存入app私有路径"
+    },
+    {
+      "name": "data_write_success",
+      "value": "写入成功了！请测试"
+    },
+    {
+      "name": "data_btn1_save",
+      "value": "按钮1,文件未存入,请先存入文件"
+    },
+    {
+      "name": "data_btn2_save",
+      "value": "按钮2,文件未存入,请先存入文件"
+    },
+    {
+      "name": "data_btn3_save",
+      "value": "按钮3,文件未存入,请先存入文件"
+    },
+    {
+      "name": "data_is_saved",
+      "value": "是否存好了"
+    },
+    {
+      "name": "data_save_remind",
+      "value": "文字提醒,请先存入文件再测试"
+    }
+  ]
+}

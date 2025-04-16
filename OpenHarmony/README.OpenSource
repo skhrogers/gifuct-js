@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "gifuct-js",
+        "License": "MIT License",
+        "License File": "LICENSE-MIT",
+        "Version Number": "1.0.0",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/matt-way/gifuct-js",
+        "Description": "Fastest javascript .GIF decoder/parser"
+    },
+    {
+        "Name": "jsBinarySchemaParser",
+        "License": "MIT LICENSE",
+        "License File": "LICENSE-MIT",
+        "Version Number": "1.0.1",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/matt-way/jsBinarySchemaParser",
+        "Description": "Parse binary files in javascript using clean schema objects"
+    }
+]

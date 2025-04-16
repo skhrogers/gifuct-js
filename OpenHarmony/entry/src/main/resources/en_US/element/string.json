@@ -1,0 +1,194 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "gif-drawable"
+    },
+    {
+      "name": "router_default",
+      "value": "Default hard decoding example"
+    },
+    {
+      "name": "router_alternative",
+      "value": "Alternative soft decoding example"
+    },
+    {
+      "name": "router_online",
+      "value": "Soft decoding network download test"
+    },
+    {
+      "name": "router_local_res",
+      "value": "Soft decoding local Res test"
+    },
+    {
+      "name": "router_local_file",
+      "value": "Soft decoding local file test"
+    },
+    {
+      "name": "text_label_show",
+      "value": "GIF capability display"
+    },
+    {
+      "name": "text_gif1_parse",
+      "value": "Is GIF1 parsing completed?"
+    },
+    {
+      "name": "text_gif2_parse",
+      "value": "Is GIF2 parsing completed?"
+    },
+    {
+      "name": "text_gif3_parse",
+      "value": "Is GIF3 parsing completed?"
+    },
+    {
+      "name": "text_current_loop",
+      "value": "How many times does the current GIF loop?"
+    },
+    {
+      "name": "text_loadAndParse_time",
+      "value": "Loading and parsing time"
+    },
+
+    {
+      "name": "button_draw_gif1",
+      "value": "Draw GIF1"
+    },
+    {
+      "name": "button_draw_gif2",
+      "value": "Draw GIF2"
+    },
+    {
+      "name": "button_draw_gif3",
+      "value": "Draw GIF3"
+    },
+    {
+      "name": "data_current_loop",
+      "value": "GIF repeat"
+    },
+    {
+      "name": "data_time",
+      "value": "time"
+    },
+    {
+      "name": "button_start_play",
+      "value": "Start Playing"
+    },
+    {
+      "name": "button_stop_play",
+      "value": "Stop Playing"
+    },
+    {
+      "name": "button_reset_play",
+      "value": "Reset Playback"
+    },
+
+    {
+      "name": "data_show_content",
+      "value": "Text"
+    },
+    {
+      "name": "data_parse_state",
+      "value": "Parsing status"
+    },
+    {
+      "name": "text_play_speed",
+      "value": "Playback speed"
+    },
+    {
+      "name": "text_setting_size",
+      "value": "Size"
+    },
+    {
+      "name": "placeholder_width",
+      "value": "Width"
+    },
+    {
+      "name": "placeholder_height",
+      "value": "Height"
+    },
+    {
+      "name": "text_show_text",
+      "value": "Text："
+    },
+    {
+      "name": "text_load_source",
+      "value": "Source"
+    },
+    {
+      "name": "button_resource",
+      "value": "Project"
+    },
+    {
+      "name": "data_parsing",
+      "value": " Parsing, please wait"
+    },
+    {
+      "name": "data_parse_finish",
+      "value": "Parsing completed in"
+    },
+    {
+      "name": "data_time_consuming",
+      "value": "Time is"
+    },
+    {
+      "name": "button_local_path",
+      "value": "Local"
+    },
+    {
+      "name": "button_network",
+      "value": "Online"
+    },
+    {
+      "name": "text_control",
+      "value": "Control"
+    },
+    {
+      "name": "button_start",
+      "value": "Enable"
+    },
+    {
+      "name": "button_pause",
+      "value": "Pause"
+    },
+    {
+      "name": "button_reset",
+      "value": "Reset"
+    },
+    {
+      "name": "button_save_private_path",
+      "value": "Save the GIF to the app's private path"
+    },
+    {
+      "name": "data_write_success",
+      "value": "Writing was successful! Please start testing"
+    },
+    {
+      "name": "data_btn1_save",
+      "value": "Button 1, file unsaved, please save the file first"
+    },
+    {
+      "name": "data_btn2_save",
+      "value": "Button 2, file unsaved, please save the file first"
+    },
+    {
+      "name": "data_btn3_save",
+      "value": "Button 3, file unsaved, please save the file first"
+    },
+    {
+      "name": "data_is_saved",
+      "value": "Is it saved"
+    },
+    {
+      "name": "data_save_remind",
+      "value": "Reminder: Please save the file before testing"
+    }
+  ]
+}

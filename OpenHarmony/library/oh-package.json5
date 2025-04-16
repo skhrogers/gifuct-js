@@ -1,0 +1,24 @@
+{
+  "types": "",
+  "keywords": [
+    "OpenHarmony",
+    "gif",
+    "HarmonyOS"
+  ],
+  "author": "ohos_tpc",
+  "description": "gif-drawable是专门为OpenHarmony打造的一款GIF图像渲染库",
+  "ohos": {
+    "org": "opensource"
+  },
+  "main": "index.ets",
+  "repository": "https://gitee.com/openharmony-sig/ohos-gif-drawable",
+  "type": "module",
+  "version": "2.1.1-rc.0",
+  "dependencies": {},
+  "tags": [
+    "UI"
+  ],
+  "license": "Apache License 2.0",
+  "devDependencies": {},
+  "name": "@ohos/gif-drawable"
+}

@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/index",
+    "pages/networkLoadTestCasePage",
+    "pages/loadResourceAndRawFilePage",
+    "pages/loadStringAndBufferPage",
+    "pages/sample2TestCasePage",
+    "pages/sample1TestCasePage"
+  ]
+}

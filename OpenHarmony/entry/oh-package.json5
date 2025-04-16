@@ -1,0 +1,11 @@
+{
+  "license": "Apache License 2.0",
+  "devDependencies": {},
+  "name": "entry",
+  "description": "example description",
+  "repository": "",
+  "version": "2.1.0",
+  "dependencies": {
+    "@ohos/gif-drawable": "file:../library"
+  }
+}
